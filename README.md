@@ -7,7 +7,7 @@ Please complete the coding exercises below, upload code to a personal git repo, 
 
 ## Prerequisites 
 To build and run the sample code please make sure you have the following prerequisites
-- NodeJs v13.12 or higher
+- NodeJs v20.18.1 or higher
 - Yarn
 
 ## Getting Started
